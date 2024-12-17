@@ -29,6 +29,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/256px-Logo_C_sharp.svg.png?20221121173824" alt="csharp" width="45" height="45"/>  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
 <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="nextjs" width="45" height="45" />
+<img src="https://icon.icepanel.io/Technology/png-shadow-512/Express.png" alt="nextjs" width="45" height="45" />
 
 
 
