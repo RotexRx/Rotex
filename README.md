@@ -4,7 +4,7 @@
 
 <p align="center"> 
   My Profile Visitor Counter<br>
-  <img src="https://profile-counter.glitch.me/realghaderi/count.svg" />
+  <img src="https://profile-counter.glitch.me/RotexRx/count.svg" />
 </p>
 
 <br>
