@@ -55,18 +55,13 @@
 
   - 32GB DDR5
 
-  - MB ASUS Z790
-
-<hr>
-
-- LAPTOP DELL LATITUDE 5580
-
+  - MB ASUS Z790 D
 <hr>
 
 <h2> 📞 &nbsp;Connect Me</h2>
 
 - 🌱 my personal web [mkhaleqi.ir](https://mkhaleqi.ir)
-- 🌱 my telegram [@call_me_khodemehdi](https://t.me/call_me_khodemehdi)
+- 🌱 my telegram [@rxmahdi](https://t.me/rxmahdi)
 - 🌱 my number [ +989393240220 ]
 
 <p align="center">
