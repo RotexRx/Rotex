@@ -60,7 +60,7 @@
 
 <h2> 📞 &nbsp;Connect Me</h2>
 
-- 🌱 my personal web [mkhaleqi.ir](https://mkhaleqi.ir)
+- 🌱 my personal web [mkhaleqi.ir](https://mkhaleqi.ir) ( Turned Off )
 - 🌱 my telegram [@rxmahdi](https://t.me/rxmahdi)
 - 🌱 my number [ +989393240220 ]
 
