@@ -14,11 +14,7 @@
 
 *I'm a self-taught passionate Fullstack developer from Iran*
 
-- 💼 FrontEnd Engineer at [SemicolonTm](http://semicolontm.ir)
-
-- 📈 +50 Web Projects
-
-- ❤️ I love writing JavaScript
+- 💼 FullStack Developer 
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
